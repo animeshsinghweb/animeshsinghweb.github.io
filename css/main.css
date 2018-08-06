@@ -12,7 +12,7 @@ img {
     margin-top: 2rem;
     border-radius: 3.1em;
     border: 2px solid #eee;
-    max-width: 380px;
+    max-width: 360px;
 }
 
 img:hover {
@@ -83,10 +83,7 @@ a:hover {
     p.desc {
         padding: .4em;
     }
-    .hero {
-        height: 120vh;
-    }
-    .hero-bg {
-        height: 110vh;
+    img {
+        max-width: 200px;
     }
 }
