@@ -12,7 +12,7 @@ img {
     margin-top: 2rem;
     border-radius: 3.1em;
     border: 2px solid #eee;
-    width: 200px;
+    max-width: 380px;
 }
 
 img:hover {
