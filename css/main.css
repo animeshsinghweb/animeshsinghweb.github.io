@@ -17,6 +17,7 @@ img {
 
 img:hover {
     border-width: 5px;
+    border-color: #ffb300;
 }
 
 h1 {
@@ -52,7 +53,8 @@ a:hover {
 }
 
 .hero {
-    background: url(https://ch3302files.storage.live.com/y4mE_9dclYzC6H5PbTQ8gD15DGd7d_dquvbeiYzSsQ9LuDSKKjtnbkHrkxFAEDq7SsU2ombwYgkyTncpoqOmryMIpAT2Hw1p5th4UYCxF8bHWNxIE-MwfO3N221u076GRqHvHQaOBwRVs5cQ4wSINkf1vBuvvlcNxsAN0ex5j0K596GDeS_dhVBLvL33kjT1c-p0g5VCK5YoBObUY1E2GySIg/IMG20180709154447.jpg?psid=1&width=982&height=736);
+    /*     background: url(https://ch3302files.storage.live.com/y4mE_9dclYzC6H5PbTQ8gD15DGd7d_dquvbeiYzSsQ9LuDSKKjtnbkHrkxFAEDq7SsU2ombwYgkyTncpoqOmryMIpAT2Hw1p5th4UYCxF8bHWNxIE-MwfO3N221u076GRqHvHQaOBwRVs5cQ4wSINkf1vBuvvlcNxsAN0ex5j0K596GDeS_dhVBLvL33kjT1c-p0g5VCK5YoBObUY1E2GySIg/IMG20180709154447.jpg?psid=1&width=982&height=736); */
+    background: url(https://bnl1qa.ch.files.1drv.com/y4mrjDqEq-zgpCLYP-RbOQ-lunvE__LsIJbpT0s_c9ZK1UfiMEHPUYE6yikOL-XH2uDKxmOzzkH0ZSPOZEHIT5qzs7BJiWIt6biTTVTvzIoRXR-F_gP9F813MYsOWGL3snayV9VSJ3Dvc2m5Bfja8jW62PAh7JjlqyRFHwpic_MgFW5nHrMulDpaBmN6xSpaM9Igskg7CdOo_31rfk3DwEurw?width=3264&height=1632&cropmode=none);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -74,9 +76,12 @@ a:hover {
 .hero-bg {
     padding: 2.4em;
     min-height: 100vh;
-    background: rgba(255, 179, 0, .8);
-    background: -webkit-linear-gradient(to right, rgba(51, 51, 51, .8), rgba(255, 179, 0, .8));
-    background: linear-gradient(to right, rgba(51, 51, 51, .8), rgba(255, 179, 0, .8));
+    /*     background: rgba(255, 179, 0, .8); */
+    /*     background: -webkit-linear-gradient(to right, rgba(51, 51, 51, .8), rgba(255, 179, 0, .8)); */
+    /*     background: linear-gradient(to right, rgba(51, 51, 51, .8), rgba(255, 179, 0, .8)); */
+    background: #004e92bf;
+    background: linear-gradient(to right, #004e92bf, #000428d9);
+    background: -webkit-linear-gradient(to right, #004e92bf, #000428d9);
 }
 
 @media (min-width: 300px) and (max-width: 800px) {
