@@ -1,6 +1,4 @@
-## I am making up my website
-Would upload soon.
+Static site made by using html & css only.
 
-You can [read my blog](https://blog.animeshsingh.in) till then.
-
-Chears.
+[Live Link](https://animeshsingh.in)
+[Link to blog](https://blog.animeshsingh.in)
