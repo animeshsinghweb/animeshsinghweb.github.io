@@ -73,10 +73,7 @@ a {
 }
 
 .hero {
-    /*     background: url(https://ch3302files.storage.live.com/y4mE_9dclYzC6H5PbTQ8gD15DGd7d_dquvbeiYzSsQ9LuDSKKjtnbkHrkxFAEDq7SsU2ombwYgkyTncpoqOmryMIpAT2Hw1p5th4UYCxF8bHWNxIE-MwfO3N221u076GRqHvHQaOBwRVs5cQ4wSINkf1vBuvvlcNxsAN0ex5j0K596GDeS_dhVBLvL33kjT1c-p0g5VCK5YoBObUY1E2GySIg/IMG20180709154447.jpg?psid=1&width=982&height=736); */
-    /*     background: url(https://bnl1qa.ch.files.1drv.com/y4mrjDqEq-zgpCLYP-RbOQ-lunvE__LsIJbpT0s_c9ZK1UfiMEHPUYE6yikOL-XH2uDKxmOzzkH0ZSPOZEHIT5qzs7BJiWIt6biTTVTvzIoRXR-F_gP9F813MYsOWGL3snayV9VSJ3Dvc2m5Bfja8jW62PAh7JjlqyRFHwpic_MgFW5nHrMulDpaBmN6xSpaM9Igskg7CdOo_31rfk3DwEurw?width=3264&height=1632&cropmode=none); */
-    /* background: url(https://eosgpa.ch.files.1drv.com/y4moAkJxjqAZPLPsJfw47pjCDwNmu3apYttPmN6_zUuNrFVTsupj3-QHCsJHha_V7rUJtpcOAm50z-zh_-pV0rc1U1lbX8gApG0sC3dRXVjvY2P6sPdEgLvINDofOmIgdnGhmmZz4HCSfTNiYAPUHsgQC7vf28LNIJyH8ZlTUT7h4oD3fgzmNg0jK0wSDOwAGekPQCmdqwnjELZV_MSbvncbg?width=4160&height=2080&cropmode=none); */
-    background: url(https://3xaspg.ch.files.1drv.com/y4mW0Yg9RNHtrVHCle-lmoZhlD02vn_6i2LcGBoL6DgNFY_vk0m8Za00bVEIFfHkKIcZyiQAwj-ThkNQKa1BrlExEM4mL2qtqo87VEk1VyOkMDuJWEgjtMENDQ7GeXsCBpc2twa9tfWf8Jgst3xoeL2KKuxNxi6xpLTpesgdaraMpxECLZ5RuckzrAiJF-41B59pSw9_t-oWIc6jEdU7Pxadg?width=4160&height=3120&cropmode=none);
+    background: url(../img/sahara.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
